@@ -5,7 +5,7 @@ News Headline generation inspired by character modeling using Long short term me
 The model is built by Keras library. 
 
 #Install 
-You need Python 2.7 and Keras library. To run simply python main.py
+You need Python 2.7 and Keras library. To run  simply type in command line  $ python main.py
 
 #Samples Generated
 snorting lines of chocolate is the latest way to get intervention is to holocaust. to the kinetic speed industry speed of the the. <br/>
